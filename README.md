@@ -5,7 +5,7 @@ The CI/CD pipeline runs on a self-hosted Azure DevOps agent deployed on an AWS E
 
 ## 🛠Technologies
 - Node.js 18+, Express.js
-- MongoDB / CosmosDB
+- MongoDB
 - Azure DevOps (Classic + YAML)
 - Azure Web App (Linux)
 - Self-hosted agent on AWS EC2
